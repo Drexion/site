@@ -18,3 +18,9 @@
 	path = _includes/text
 	url = https://github.com/mibook/text.git
 	branch = main 
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/Drexion/_gallery.git
+[submodule "images"]
+	path = images
+	url = https://github.com/Drexion/images.git
